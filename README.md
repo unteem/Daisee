@@ -8,6 +8,6 @@ If I produce more than I consume, I can buy energy from a producer in the networ
 
 Problem It does not compile.
 
-Our goal with this smart contract is to do a small demo of a situation of exchange in the context of a hackaton. 
+Our goal with this smart contract is to do a small demo of a situation of exchange between 2 peers (one with an excendetary production and one that needs some energy) in the context of a hackaton. 
 
 Original author: https://github.com/Xalava/Daisee
