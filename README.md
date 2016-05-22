@@ -1,4 +1,4 @@
-Project: DAISEE - Dectralized Autonomous Interconnect System for Energy Efficiency
+Project: DAISEE - Decentralized Autonomous Interconnected Systems for Energy Efficiency
 DAO for smart grids
 Smart contract for transactions between an energy producer and a consumer. 
 If I produce more than I consume, I can sell my energy (through a token equivalent to Watt/Hours). 
